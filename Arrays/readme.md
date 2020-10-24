@@ -7,5 +7,7 @@ SDE Problems Solved
 
 3) Merge two sorted Arrays without extra space.
 
+4) Kadane’s Algorithm for efficient maximum subarray sum.
+
 
 
