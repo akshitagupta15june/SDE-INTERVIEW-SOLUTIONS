@@ -9,5 +9,7 @@ SDE Problems Solved
 
 4) Kadane’s Algorithm for efficient maximum subarray sum.
 
+5) Repeat and Missing Number.
+
 
 
